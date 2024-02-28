@@ -18,7 +18,7 @@ function myFunction1(element, clr) {
 
 
 function myFunction() {
-    location.replace("http://127.0.0.1:5505/index.html")
+    location.replace("https://youjunzhang.github.io/Studio-project-1-page-4/")
   }
 
 
